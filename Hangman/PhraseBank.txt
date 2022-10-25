@@ -1,0 +1,2 @@
+/* Suraj Dhakal 1001765507 */
+char *PhraseBank[] = {"Take me to Church", "Have a Great Day", "Let's Have Some Fun This Thanksgiving", "Set Fire to the Rain", "Are you an Undergraduate Student?", "Lady Gaga is the Best!", "(We Gotta) Save the World", "Hola,Como esta's", "What goes around comes around", "Happy Holiday's",""};
